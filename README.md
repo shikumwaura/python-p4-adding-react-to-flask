@@ -248,6 +248,8 @@ servers in the coming lessons.
 
 ---
 
+
+
 ## Resources
 
 - [Client-Server Model - GeeksforGeeks](https://www.geeksforgeeks.org/client-server-model/)
